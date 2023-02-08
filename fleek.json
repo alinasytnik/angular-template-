@@ -1,0 +1,6 @@
+{
+  "id": "cldvtqsdq0000mp08ugq0a8uu",
+  "name": "angular-example",
+  "distDir": "dist/angular-test",
+  "buildCommand": "npm run build"
+}
